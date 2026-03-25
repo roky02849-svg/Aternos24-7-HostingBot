@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
-    "type": "offline"
+    "username": "Crni",
+    "password": "123123",
+    "type": "online"
   },
   "server": {
     "ip": "amazing-SSZU.aternos.me",
