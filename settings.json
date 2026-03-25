@@ -3,7 +3,7 @@
   "bot-account": {
     "username": "Crni",
     "password": "123123",
-    "type": "online"
+    "type": "offline"
   },
   "server": {
     "ip": "Crniiiexe.aternos.me",
@@ -13,9 +13,9 @@
   },
   "position": {
     "enabled": true,
-    "x": 0,
-    "y": 100,
-    "z": 0
+    "x": 26201,
+    "y": -26,
+    "z": 7063
   },
   "utils": {
     "auto-auth": {
